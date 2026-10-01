@@ -1,0 +1,12 @@
+                 precision    recall  f1-score   support
+
+        Crazing     1.0000    1.0000    1.0000        45
+      Inclusion     0.9348    0.9556    0.9451        45
+        Patches     1.0000    0.9778    0.9888        45
+ Pitted_Surface     0.9348    0.9556    0.9451        45
+Rolled_In_Scale     1.0000    1.0000    1.0000        45
+      Scratches     0.9545    0.9333    0.9438        45
+
+       accuracy                         0.9704       270
+      macro avg     0.9707    0.9704    0.9704       270
+   weighted avg     0.9707    0.9704    0.9704       270
